@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\bin\Debug\xml_persistant_model.exe.config
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\bin\Debug\xml_persistant_model.exe
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\bin\Debug\xml_persistant_model.pdb
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\obj\Debug\xml_persistant_model.csprojAssemblyReference.cache
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\obj\Debug\xml_persistant_model.Form1.resources
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\obj\Debug\xml_persistant_model.Properties.Resources.resources
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\obj\Debug\xml_persistant_model.csproj.GenerateResource.cache
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\obj\Debug\xml_persistant_model.exe
+C:\Users\User\source\repos\xml_persistant_model\xml_persistant_model\obj\Debug\xml_persistant_model.pdb

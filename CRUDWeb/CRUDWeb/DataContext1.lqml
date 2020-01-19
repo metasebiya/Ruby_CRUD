@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database Name="crud_db" EntityNamespace="CrudDbContext" ContextNamespace="CrudDbContext" Class="CrudDbDataContext" xmlns:ed="http://devart.com/schemas/EntityDeveloper/1.0" ed:Guid="ecca1d8b-1277-41e9-ab63-410e200fad87" Provider="Devart.Data.MySql.Linq.Provider.MySqlDataProvider, Devart.Data.MySql.Linq" Extended="true" xmlns="http://schemas.devart.com/linqconnect/mapping">
+  <Connection Mode="ConnectionString" ConnectionString="User Id=root;Password=root;Host=localhost;Database=crud_db;Persist Security Info=True" Provider="Devart.Data.MySql" />
+  <Table Name="crud_db.emp_table" Member="EmpTables">
+    <Type Name="EmpTable" ed:Guid="ddcfb144-7c3a-44ed-a838-f3c88c1068b5">
+      <Column Name="emp_id" Member="EmpId" Type="System.Int32" AutoSync="OnInsert" DbType="INT(11) NOT NULL AUTO_INCREMENT" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" UpdateCheck="Always" Precision="11" ed:ValidateRequired="true" ed:Guid="85d9dccd-3198-40b4-b071-d87ed39b2ee6" />
+      <Column Name="emp_name" Member="EmpName" Type="System.String" DbType="VARCHAR(20) NOT NULL" CanBeNull="false" UpdateCheck="Never" MaxLength="20" Unicode="true" ed:ValidateMaxLength="20" ed:ValidateRequired="true" ed:Guid="cb92534b-105e-4e35-9b64-3066d379ab36" />
+      <Column Name="salary" Member="Salary" Type="System.Int32" DbType="INT(11) NOT NULL" CanBeNull="false" UpdateCheck="Never" Precision="11" ed:ValidateRequired="true" ed:Guid="fdf6c5d2-4d7e-407d-a10b-0e79a281f75b" />
+      <Column Name="email" Member="Email" Type="System.String" DbType="VARCHAR(20) NOT NULL" CanBeNull="false" UpdateCheck="Never" MaxLength="20" Unicode="true" ed:ValidateMaxLength="20" ed:ValidateRequired="true" ed:Guid="9476b699-1d03-496c-bdd7-361db75ba87b" />
+    </Type>
+  </Table>
+</Database>
